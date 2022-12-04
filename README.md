@@ -1,5 +1,5 @@
 ## SpringBoot-Vue.js-Project-AlgebraSolver 
-- SpringBoot와 Vue.js 익히고 이를 이용하여 간단한 웹서비스를 만들어봅시다.
+- SpringBoot와 Vue.js 학습하고 이를 이용하여 간단한 웹서비스를 만들어봅시다.
 
 
 ## 개발기간
