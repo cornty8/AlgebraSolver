@@ -8,6 +8,7 @@
 
 ## 개발인원
 - 👤 이기원 [@refrainfl](https://github.com/refrainfl) : FullStack
+- 👤 윤민수 [@cornty8](https://github.com/cornty8) : FullStack
 
 
 ## 개발환경
